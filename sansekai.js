@@ -148,7 +148,7 @@ Menampilkan source code bot yang dipakai`)
         }
           break;
           case "sc": case "script": case "scbot":
-           m.reply("Bot ini menggunakan script dari https://github.com/Sansekai/Wa-OpenAI");
+           m.reply("Hayo");
           break
         default: {
           if (isCmd2 && budy.toLowerCase() != undefined) {
